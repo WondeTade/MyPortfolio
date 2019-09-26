@@ -115,6 +115,6 @@ suggest.addEventListener('blur', setSuggest);
 //Run
 showTime();
 setBackgroundGreeting();
-getName();
-getSuggest();
+//getName();
+//getSuggest();
 

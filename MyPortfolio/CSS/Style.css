@@ -90,13 +90,13 @@
 		align-items: right;
 		justify-content: center;
 		text-align: right;
-		height: 18vh;
+		height: 10vh;
 		margin-right: 200px;
 	}
 	
 	#time {
 		font-size: 1.2rem;
-		color: white;
+		color: #f0f0f0;
 	}
 	
 	#time h1 {
